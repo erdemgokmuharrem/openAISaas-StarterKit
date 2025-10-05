@@ -390,6 +390,12 @@ If you encounter any issues or have questions:
 
 ---
 
-**Built with ❤️ for the AI community**
+## 🆘 Support
 
-For more information, visit our [GitHub repository](https://github.com/erdemgokmuharrem/openAISaas-StarterKit).
+- 📧 Email: erdemmgokmuharrem@gmail.com
+- 📖 Documentation: `/api-docs`
+- 🐛 Issues: GitHub Issues
+
+---
+
+**Made with erdemgokmuharrem
